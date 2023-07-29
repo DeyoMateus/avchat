@@ -1,4 +1,7 @@
 # Importando recursos
+#Estrutura padrão "!" html
+#websocket html
+#https://cdnjs.com/ (socket.io, jquery)
 from flask import Flask, render_template
 
 app = Flask(__name__)
